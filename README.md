@@ -18,8 +18,9 @@ Các spint đã hoàn thành:
  - Sprint 3: (ngày 15/11/2023)
     + Học sinh bình luận bài thi
     + Admin xem bình luận học sinh
-    + Admin xóa tài khoản học sinh      
-  Hướng phát triển:
+    + Admin xóa tài khoản học sinh
+      
+Hướng phát triển:
    - Hệ thống hiển thị thời gian còn lại của bài thi.
    - Có chức năng tìm kiếm bài thi dựa trên #tag.
    - Giao diện đề tài đẹp hơn dễ tiếp cận đến người dùng.
