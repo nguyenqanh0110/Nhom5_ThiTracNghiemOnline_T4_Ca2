@@ -1,5 +1,7 @@
 Nhóm 5: Thi Trắc Nghiệm Online
-- Thành viên nhóm: Nguyễn Anh Bằng, Nguyễn Hoàng Quốc Anh, Dương Nhật Quang.
+
+Thành viên nhóm: Nguyễn Anh Bằng, Nguyễn Hoàng Quốc Anh, Dương Nhật Quang.
+
 Các spint đã hoàn thành:
  - Spint 1: (ngày 4/10/2023)
           + Học sinh đăng ký, đăng nhập vào hệ thống
